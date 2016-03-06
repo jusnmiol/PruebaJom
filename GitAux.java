@@ -20,6 +20,7 @@ public class GitAux {
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
+        System.out.println("Escribe testing");
     }
 
     public void testGitAux(){
