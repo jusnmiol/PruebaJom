@@ -5,13 +5,13 @@
 package prgitejemplo;
 
 /**
- *
- * @author bertoa
+ * @author jmortiz
  */
 public class GitAux {
     
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+	System.out.println("fin metodo 1");
     }
     
     public void metodoAlumno2(){
