@@ -12,6 +12,7 @@ public class GitAux {
     public void metodoAlumno1(){
         System.out.println("metodo 1");
 	System.out.println("fin metodo 1");
+	System.out.println("otra línea");
     }
     
     public void metodoAlumno2(){
@@ -25,6 +26,7 @@ public class GitAux {
 =======
         System.out.println("Escribe testing");
 >>>>>>> testing
+	//Añado aquí
     }
 
     public void testGitAux(){
