@@ -12,6 +12,7 @@ public class GitAux {
     public void metodoAlumno1(){
         System.out.println("metodo 1");
 	System.out.println("fin metodo 1");
+	System.out.println("otra línea");
     }
     
     public void metodoAlumno2(){
@@ -21,16 +22,10 @@ public class GitAux {
     
     public void metodoComunitario(){
         System.out.println("Aqui escribimos todos");
-<<<<<<< HEAD
         System.out.println("Escribe testing");
-=======
-<<<<<<< HEAD
 	System.out.println("Escribe master");
-=======
-        System.out.println("Escribe testing");
->>>>>>> testing
->>>>>>> master
         //holalaaaaaa
+	//Añado aquí
     }
 
     public void testGitAux(){
